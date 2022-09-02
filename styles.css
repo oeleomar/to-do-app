@@ -96,7 +96,7 @@ section form input.submit:hover {
   font-family: inherit;
   font-size: 20px;
   padding: 15px 10px;
-  max-width: 75%;
+  width: 75%;
   margin-left: 10px;
   border-radius: 15px;  
 }
@@ -109,6 +109,7 @@ section form input.submit:hover {
   font-family: inherit;
   font-size: 18px;
   padding: 0 10px;
+  display: none;
 }
 
 .task-container ul li span:hover {
